@@ -1,0 +1,12 @@
+header {
+    background-color: #6DB9EF;
+    color: #fff; /* Warna teks putih */
+}
+
+.navbar-nav .nav-link {
+    color: #fff; /* Warna teks putih untuk link di navbar */
+}
+
+.navbar-toggler-icon {
+    background-color: #fff; /* Warna ikon garis tiga */
+}
